@@ -1,10 +1,10 @@
 # green-hydrogen-monte-carlo
 monte carlo for my proposed business project
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TWS07-gif/green-hydrogen-monte-carlo/blob/main/hydrogen_monte_carlo.py)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TWS07-gif/green-hydrogen-monte-carlo/blob/main/hydrogen_monte_carlo.ipynb)
 
 # Teesside Green Hydrogen Production: Monte Carlo & Financial Valuation Model
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TWS07-gif/green-hydrogen-monte-carlo/blob/main/hydrogen_monte_carlo.py)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TWS07-gif/green-hydrogen-monte-carlo/blob/main/hydrogen_monte_carlo.ipynb)
 
 This repository contains a quantitative financial model and Monte Carlo simulation analyzing the public sector cost, private returns, and financial viability of a **9.5 GW scale Green Hydrogen Deployment (20x 475 MW electrolysers)** in Teesside, UK.
 
